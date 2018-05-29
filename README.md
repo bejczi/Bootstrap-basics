@@ -1,2 +1,2 @@
 # bootstarp-basics
-How i can make responsible pages with Bootstarp.
+How can i make responsible pages with Bootstarp.
